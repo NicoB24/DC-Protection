@@ -1,4 +1,4 @@
-//Se eligen los pines del micro a utilizar
+//Se eligen los pines del micro a utilizar (ATTiny85)
 int ADC3=2; // El pin 2 se usa como ADC3.
 int ADC2=3; // El pin 3 se usa como ADC2.
 int control=1; // El pin 1 se usa como señal para activar/desactivar rele.
